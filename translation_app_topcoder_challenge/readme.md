@@ -6,7 +6,7 @@ This is a simple Android App, built using Flutter (Dart programming language), w
 
 Install the apk on a physical android device or in an emulator. Apk file can be found here:
 
-> app.apk
+> app-release.apk
 
 ## Testing
 
